@@ -7,5 +7,7 @@ clone, compile, run
 
 ## Tested on
 Archlinux
+
 Manufacturer: ASUSTeK Computer Inc.
+
 Product Name: K60IJ
