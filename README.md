@@ -12,5 +12,9 @@ Manufacturer: ASUSTeK Computer Inc.
 
 Product Name: K60IJ
 
+## Adjustments for your system
+You may have to adjust /sys/class/backlight/intel_backlight/max_brightness to match your system
+
+
 ## Screenshot
 ![Screenshot](https://raw.githubusercontent.com/mrhhug/LCD_Brightness-curses/master/Screenshot.png)
