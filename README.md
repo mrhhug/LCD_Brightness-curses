@@ -11,3 +11,6 @@ Archlinux
 Manufacturer: ASUSTeK Computer Inc.
 
 Product Name: K60IJ
+
+## Screenshot
+![Screenshot](https://raw.githubusercontent.com/mrhhug/LCD_Brightness-curses/master/Screenshot.png)
